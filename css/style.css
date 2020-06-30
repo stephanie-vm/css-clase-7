@@ -12,7 +12,7 @@ h2 {
 .serif,
 .sanserif{
     text-align: justify;
-}
+}*/
 /*text decoration*/
 /*h1,
 h2 {
@@ -39,38 +39,39 @@ p.sanserif {
 /* propiedades de backround*/
 
 /* backround color*/
-body{
+/*body{
     background-color: RGB(255, 239, 213);
 }*/
 /*backround image*/
-body{
+/*body{
     background-image: url("../img/costa_rica.jpg");
 /*backround repeat*/
-    background-repeat:no-repeat;
+    /*background-repeat:no-repeat;
 /*backround position*/
-    background-position-y:center;
+    /*background-position-y:center;
     background-position-x:right;
     background-size:270px;
     height:500px ;
-    width: 800px;
+    width: 800px;*/
+
 /*propiedades de font*/
 /*font family*/
-/*p.serif{
+p.serif{
     font-family: cursive, Helvetica,serif;
 }
 p.sanserif{
     font-family:arial, fantasy,sans-serif;
 }
 /*font style*/
-/*p.alignmet{
+p.alignmet{
     font-style:italic;
 }
 /*font weight*/
-/*p.alignmet{
+p.alignmet{
     font-weight: bold;
 }
 /*font size*/
-/*p.alignmet,
+p.alignmet,
 p.serif,
 p.sanserif {
     font-size: 22px;
