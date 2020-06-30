@@ -1,0 +1,77 @@
+/*propiedades de texto*/
+
+/* text color*/
+h1 {
+    color: red ;
+}
+h2 {
+    color: blue;
+}
+/*text alignmet*/
+.alignmet,
+.serif,
+.sanserif{
+    text-align: justify;
+}
+/*text decoration*/
+h1,
+h2 {
+    text-decoration: underline;
+}
+/*text transfomation*/
+ul.list{
+    text-transform: uppercase;
+}
+/*letter spacing*/
+h2 {
+    letter-spacing: 20px;
+}
+/*line heigt*/
+h1,
+p.alignmet,
+ul.list,
+h2,
+p.serif,
+p.sanserif {
+    line-height: 30px;
+}
+
+/* propiedades de backround*/
+
+/* backround color*/
+/*body{
+    background-color: RGB(255, 239, 213);
+}*/
+/*backround image*/
+/*body{
+    background-image: url("../img/costa_rica.jpg");
+/*backround repeat*/
+    /*background-repeat:no-repeat;
+/*backround position*/
+    /* background-position-y:center;
+    background-position-x:right;
+    background-size:270px;
+    height:500px ;
+    width: 800px;
+/*propiedades de font*/
+/*font family*/
+/*p.serif{
+    font-family: cursive, Helvetica,serif;
+}
+p.sanserif{
+    font-family:arial, fantasy,sans-serif;
+}
+/*font style*/
+/*p.alignmet{
+    font-style:italic;
+}
+/*font weight*/
+/*p.alignmet{
+    font-weight: bold;
+}
+/*font size*/
+/*p.alignmet,
+p.serif,
+p.sanserif {
+    font-size: 22px;
+} 
